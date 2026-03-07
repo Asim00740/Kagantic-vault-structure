@@ -129,17 +129,6 @@ Use the following prompt on existing files to generate summaries and tags quickl
 </output-format>
 ```
 
-### Benchmark
-
-| Model             | Response Quality | Best For                                         | Notes                                                                 |
-| ----------------- | ---------------- | ------------------------------------------------ | --------------------------------------------------------------------- |
-| Claude Sonnet 4.6 | Best             | High-quality, low-error migrations               | Rarely misses format; strong at choosing what to highlight.           |
-| Kimi K2 Thinking  | Mid              | High-speed, multi-agent swarms                   | Requires manual format fixes; good when speed and scale matter most.  |
-| Grok 4.2 Expert   | Excellent        | Large migrations on a budget                     | Extremely fast; needs manual fixes roughly 1 out of 3 runs.           |
-| GPT 5.2 Thinking  | Mid              | Users already subscribed to ChatGPT              | Occasionally misses information but keeps format mostly intact.       |
-| GPT 5.2           | Mid              | Not recommended                                  | Often misses markdown requirements; breaks strict output formatting.  |
-| Gemini 3.1 PRO    | Low              | Very long, book-like documents (edge cases only) | Frequently misses the goal and does not follow markdown instructions. |
-
 ---
 
 ## Examples
