@@ -1,0 +1,20 @@
+# Obsidian workspace state (personal/local, not shared)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian cache and temp files
+.obsidian/cache
+
+# Plugin data that is local/personal
+.obsidian/plugins/obsidian-git/data.json
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Obsidian trash
+.trash/
+
+# Sync conflicts
+*.sync-conflict-*
